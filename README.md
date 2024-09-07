@@ -2,4 +2,4 @@
 
 ## GIF for App:
 
-![Loading...](d14-gif.gif)
+![Loading...](Gifs/d14-gif.gif)
